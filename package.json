@@ -1,0 +1,11 @@
+{
+  "name": "zenn",
+  "version": "0.0.1",
+  "scripts": {
+    "new:article": "zenn new:article --slug",
+    "preview": "zenn preview"
+  },
+  "devDependencies": {
+    "zenn-cli": "^0.4.7"
+  }
+}
