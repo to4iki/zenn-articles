@@ -1,0 +1,16 @@
+{
+  "plugins": {},
+  "filters": {},
+  "rules": {
+    "preset-ja-technical-writing": {
+      "sentence-length": {
+        "max": 120
+      },
+      "max-ten": {
+        "max": 4
+      },
+      "ja-no-mixed-period": false,
+      "ja-no-weak-phrase": false
+    }
+  }
+}

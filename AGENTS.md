@@ -14,6 +14,7 @@
 
 - `bun run new:article <slug>` - slug名の記事を作成する
 - `bun run preview` - 開発サーバーを起動しプレビューする
+- `bun run lint <file>` - 対象のファイルに対してtextlintを実行する
 
 ## 記述ルール
 
