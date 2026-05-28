@@ -7,8 +7,8 @@
     "lint": "textlint"
   },
   "devDependencies": {
-    "textlint": "^15.5.2",
+    "textlint": "^15.7.1",
     "textlint-rule-preset-ja-technical-writing": "^12.0.2",
-    "zenn-cli": "^0.4.7"
+    "zenn-cli": "^0.4.8"
   }
 }
