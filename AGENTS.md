@@ -22,4 +22,4 @@
 
 ## Skills
 
-- `/article-review` - 意味論に即し記事をレビューする
+- `/japanese-tech-writing` - 日本語技術文書の文章規範に沿って記事を推敲・レビューする
