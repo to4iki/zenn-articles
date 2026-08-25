@@ -9,6 +9,7 @@
 ## ディレクトリ構造
 
 - `articles/` - 記事一覧
+- `.agents/skills/` - Agent Skills
 
 ## 開発コマンド
 
