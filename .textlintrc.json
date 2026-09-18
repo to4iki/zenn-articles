@@ -2,6 +2,7 @@
   "plugins": {},
   "filters": {},
   "rules": {
+    "preset-ai-words-ja": true,
     "preset-ja-technical-writing": {
       "sentence-length": {
         "max": 120
